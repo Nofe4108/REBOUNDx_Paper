@@ -1,1 +1,2 @@
-# REBOUNDx_Paper
+# REBOUNDx Paper Resources
+Extra resources  
