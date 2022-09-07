@@ -1,5 +1,5 @@
 # The Yarkovsky Effect in REBOUNDx
-This repository contains the scripts and data used in our implementation paper (attach link) for the Yarkovsky effect in REBOUNDx versions 3.0.5 and 3.1.0. 
+This repository contains the scripts and data used in our implementation paper for the Yarkovsky effect in REBOUNDx versions 3.0.5 and 3.1.0. 
 
 ## Required Packages
 - [NumPy](https://numpy.org/)
